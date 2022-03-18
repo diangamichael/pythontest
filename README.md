@@ -9,14 +9,13 @@ the availability of Airbnb apartments, when is the best time to travel and how m
 should plan to spend for an apartment.
 
 This project follows the CRISP-DM Process (Cross-Industry Standard Process for Data
-Mining) which contains the following steps:
+Mining):
 
 1. Business Understanding
 2. Data Understanding
 3. Data Preparation
-4. Modelling
+4. Data Modeling
 5. Evaluation
-6. Deployment
 
 The data basis comes from the vacation rental company Airbnb which covers:
 
